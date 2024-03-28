@@ -1,4 +1,4 @@
-# README
+#README
 
 ## Description
 This React Native application is designed to display data dynamically based on user selection and input. It features dynamic data binding, automatic update of values, and responsive design.
